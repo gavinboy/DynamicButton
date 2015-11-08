@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <com.gavin.dynamicbutton.DynamicButton
+        android:id="@+id/btnMorph1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/mb_white"/>
+
+    <com.gavin.dynamicbutton.DynamicButton
+        android:id="@+id/btnMorph2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dip"
+        android:textColor="@color/mb_white"/>
+
+    <com.gavin.dynamicbutton.ProgressButton
+        android:id="@+id/btnMorph3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dip"
+        android:textColor="@color/mb_white"
+        app:pbtn_progresscolor="@color/mb_red"
+        />
+
+
+
+</LinearLayout>

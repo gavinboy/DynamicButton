@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DynamicButton</string>
+    <string name="action_settings">Settings</string>
+    <string name="mb_button">Button</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DynamicButton">
+        <attr name="dybtn_color" format="color"></attr>
+        <attr name="dybtn_corner_radius" format="dimension"></attr>
+        <attr name="dybtn_stroke_color" format="color"></attr>
+        <attr name="dybtn_stroke_width" format="dimension"></attr>
+        <attr name="dybtn_pressed_color" format="color"></attr>
+    </declare-styleable>
+
+    <declare-styleable name="ProgressButton">
+        <attr name="pbtn_progresscolor" format="color"></attr>
+        <attr name="pbtn_maxvalue" format="float"></attr>
+        <attr name="pbtn_minvalue" format="float"></attr>
+        <attr name="pbtn_progress" format="float"></attr>
+    </declare-styleable>
+</resources>

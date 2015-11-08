@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="gray">#ffdedede</color>
+    <color name="blue">#ff0099cc</color>
+    <color name="blue_dark">#ff00719b</color>
+
+
+    <color name="mb_white">#ffffff</color>
+    <color name="mb_blue">#ff0099cc</color>
+    <color name="mb_blue_dark">#ff00719b</color>
+    <color name="mb_purple">#ffaa66cc</color>
+    <color name="mb_purple_dark">#ff8855aa</color>
+    <color name="mb_green">#ff99cc00</color>
+    <color name="mb_green_dark">#ff6d9b00</color>
+    <color name="mb_red">#ffff4444</color>
+    <color name="mb_red_dark">#ffcd3a3a</color>
+    <color name="mb_gray">#ffdedede</color>
+
+</resources>
